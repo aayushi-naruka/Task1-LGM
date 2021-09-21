@@ -1,0 +1,171 @@
+body{
+    color: black;
+}
+hr{
+    width: 400px;
+
+}
+#description1{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 200px;
+    padding-right: 250px;
+
+}
+.nav-inner{
+    background: inherit;
+    margin-left: 150px;
+}
+
+.navbar{
+    position: absolute;
+    margin-top: 65px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+    z-index: 1;
+}
+.navbar-nav{
+    padding-left: 300px;
+}
+.nav-item{
+    padding-left: 40px;
+}
+.nav-link:hover{
+    background-color: cornflowerblue;
+}
+.carousel{
+  
+  z-index: 0;
+}
+.carousel-inner{
+    height: 600px;
+    width: 1520px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+
+  
+#id1{
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#about{
+    margin-top: 55px;
+}
+#features{
+    color:black;
+    padding: 1% 15%;
+    background-image: url('background.jpg');
+}
+.feature-box{
+    text-align:center;
+    padding: 4.5%;
+}
+
+.description-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.description{
+    text-align:center;
+    font-weight:400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+.icon{
+    margin-bottom: 2rem;
+}
+.list-type{
+    list-style-type: disc;
+}
+.row{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+#projects{
+    margin-top: 100px;
+}
+#pricing{
+    margin-top: 100px;
+    background-color: mediumpurple ;
+    height:340px;
+    
+}
+.pricing-row{
+    margin-top: -30px ;
+    
+    margin-bottom: 60px;
+}
+
+
+
+.header{
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    margin-left: -40px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+
+}
+.team-people-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+
+}
+#newsletter-signup{
+    margin-top: 100px;
+    background-image: url('newsletter-signup.jpg');
+    height: 300px;
+    
+}
+
+.newsletter-desc{
+    margin-left: 500px;  
+ 
+    position: absolute;
+}
+.space{
+    margin-top: 30px;
+    
+    
+}
+.team-row{
+    margin-left: 400px;
+    
+}
+.card:hover{
+    transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+#contact{
+    margin-top: 100px;
+    background-color: olivedrab;
+    height:480px;
+    
+}
+.map{
+margin-top: 15px;
+    height: 500px;
+    width: 400px;
+}
+#contacts{
+    margin-top: 50px;
+    
+}
+#blog{
+    margin-top: 100px;
+}
